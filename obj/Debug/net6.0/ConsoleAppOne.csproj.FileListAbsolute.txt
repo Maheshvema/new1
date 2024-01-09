@@ -1,0 +1,14 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.deps.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.runtimeconfig.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.AssemblyInfoInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.AssemblyInfo.cs
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\refint\ConsoleAppOne.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.genruntimeconfig.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ref\ConsoleAppOne.dll
